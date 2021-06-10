@@ -24,7 +24,7 @@ setup(
         'Framework :: Django',
     ],
     install_requires=[
-        'Django==1.9.13',
+        'Django==2.2.24',
         'django-edw',
         'django-page-builder',
         'django-fluent-pages==1.1.1',
